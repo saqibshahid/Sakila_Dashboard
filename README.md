@@ -11,7 +11,7 @@ Project Presentaion: https://docs.google.com/presentation/d/1WWKlQX6qXCDYcAUEAFX
 
 ![WhatsApp Image 2023-11-06 at 10 21 14 AM](https://github.com/saqibshahid/Sakila_Dashboard/assets/58210016/6b4aca77-d0db-4147-a409-3a2a0e8b6ef3)
 
-Customer Analysis and Movie Recommandation
+# Customer Analysis and Movie Recommandation
 ![Screenshot 2023-11-06 191208](https://github.com/saqibshahid/Sakila_Dashboard/assets/58210016/06534fc2-f13a-45fe-acae-a582c950c6e3)
 
 # RFM Analysis 
